@@ -7,13 +7,15 @@
 int main(){
     // Área para definição das variáveis para armazenar as propriedades das cidades
     char estado_carta1, cidade_carta1[30], codigo_carta1[30];
-    int populacao_carta1, numero_pontos_turisticos_carta1;
+    int numero_pontos_turisticos_carta1;
     float area_carta1, pib_carta1;
+    unsigned long int populacao_carta1;
 
     //declaração de variáveis para carta 2 - operadores relacionais
     char estado_carta2, cidade_carta2[30], codigo_carta2[30];
-    int populacao_carta2, numero_pontos_turisticos_carta2;
+    int numero_pontos_turisticos_carta2;
     float area_carta2, pib_carta2;
+    unsigned long int populacao_carta2;
 
     // Área para entrada de dados - carta 1
 
