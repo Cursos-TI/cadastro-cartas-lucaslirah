@@ -119,5 +119,14 @@ int main(){
     printf("PIB per Capita: %.2f reais\n", pib_per_capita_carta2);
     printf("++++++++++++++++++++++++++++\n");
     
+    printf("+++ COMPARAÇÃO DE CARTAS +++\n");
+    printf("População: ");
+    printf("Área: ");
+    printf("PIB: ");
+    printf("Pontos Turísticos: ");
+    printf("Densidade Populacional: ");
+    printf("PIB per Capita: ");
+    printf("Super Poder: ");
+
     return 0;
 };
